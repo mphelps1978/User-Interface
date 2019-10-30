@@ -191,7 +191,7 @@ header {
 	display: inline-block;
 	position: relative;
 	padding-left: 50px;
-	top: 10px;
+	top: 15px;
 	right: -50px;
 	width: 25%
 }
@@ -240,7 +240,7 @@ h1 {
 
 .topHalf {
 	display: inline-block;
-	padding top: 40px;
+	padding-top: 40px;
 }
 
 .features {
@@ -261,13 +261,14 @@ h1 {
 .midImage {
 	display: inline-block;
 	width: 100%;
-	padding-top: 75px;
+	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 .bottomHalf {
 	width: 100%;
 	text-align: center;
+	padding-bottom: 50px;
 }
 
 .services {
@@ -293,6 +294,7 @@ p.bodyText {
 
 h2 {
 	text-align: left;
+	font-size: 1.5em;
 }
 
 footer {
@@ -306,11 +308,11 @@ footer {
 	padding-top: 10px;
 }
 
-.number{
-padding-top: 20px;
+.number {
+	padding-top: 20px;
 }
 
-.email{
-padding-top: 20px;
-padding-bottom: 20px;
+.email {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
