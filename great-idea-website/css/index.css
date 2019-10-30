@@ -163,12 +163,14 @@ h5 {
 
 .heroClass img {
 	margin-left: 1000px;
-	background-color: green
+	background-color: green;
+
+
 }
 
 .heroClass {
 	background-color: blue;
-	padding: 75px
+	padding: 75px;
 }
 
 header {
@@ -182,7 +184,18 @@ header {
 }
 
 nav {
+	display: inline-block;
 	text-align: center;
 	background-color: red;
+}
 
+nav a {
+	display: inline-block;
+}
+
+h1 {
+	margin-right: 751px;
+	text-align: center;
+	font-size: 10rem;
+	background-color: pink;
 }
